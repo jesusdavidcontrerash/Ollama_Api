@@ -1,12 +1,12 @@
-Para la instalacion del programa, instalar los productos.
+1. Para la instalacion del programa, instalar los productos.
 
-Meter todo en una carpeta.
+2. Meter todo en una carpeta.
 
-Luego abrir netbeans.
+3. Luego abrir netbeans.
 
-Darle en abrir proyecto y eleguir la carpeta creada.
+4. Darle en abrir proyecto y eleguir la carpeta creada.
 
-Abrir el programa y listo!
+5. Abrir el programa y listo!
 
 
 Requisito:
